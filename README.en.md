@@ -4,7 +4,7 @@ Give it a topic or a text; Claude writes a 5-10 slide plan and the skill turns i
 a **LinkedIn PDF** and a ready **post caption**, with correct Turkish typography: İSTANBUL (not ISTANBUL), and
 Ş/Ç cedillas and İ dots that never touch the next line.
 
-Free, MIT licensed, by Redirhan Studio. Runs fully locally: no publishing, no accounts, no paid APIs, no browser.
+Free, MIT licensed, by Redirhan Labs. Runs fully locally: no publishing, no accounts, no paid APIs, no browser.
 
 ![example](examples/instagram-hatalari/onizleme.jpg)
 
@@ -56,5 +56,5 @@ The ad-label feature is informational, not legal advice.
 
 ## License
 
-Code: MIT (`LICENSE`), © 2026 Redirhan Studio. Fonts: SIL Open Font License 1.1 (`fonts/OFL-*.txt`) — Archivo,
+Code: MIT (`LICENSE`), © 2026 Redirhan Labs. Fonts: SIL Open Font License 1.1 (`fonts/OFL-*.txt`) — Archivo,
 Bricolage Grotesque, Manrope, Unbounded, each by its respective authors.

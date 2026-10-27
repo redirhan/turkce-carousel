@@ -4,7 +4,7 @@ Konu ya da metin ver; Claude 5-10 slaytlık bir plan yazsın, skill de onu **108
 ve hazır **gönderi açıklamasına** çevirsin. Türkçe harfler bozulmadan: İSTANBUL (ISTANBUL değil), Ş/Ç çengelleri ve
 İ noktaları alt satıra değmeden.
 
-Ücretsiz, MIT lisanslı. Redirhan Studio tarafından hazırlandı. Tamamen yerel çalışır: yayın yok, hesap yok,
+Ücretsiz, MIT lisanslı. Redirhan Labs tarafından hazırlandı. Tamamen yerel çalışır: yayın yok, hesap yok,
 ücretli API yok, tarayıcı yok.
 
 ![örnek](examples/instagram-hatalari/onizleme.jpg)
@@ -107,5 +107,5 @@ kurala göre çevirir.
 
 ## Lisans
 
-Kod: MIT (`LICENSE`), © 2026 Redirhan Studio. Fontlar: SIL Open Font License 1.1 (`fonts/OFL-*.txt`) —
+Kod: MIT (`LICENSE`), © 2026 Redirhan Labs. Fontlar: SIL Open Font License 1.1 (`fonts/OFL-*.txt`) —
 Archivo, Bricolage Grotesque, Manrope, Unbounded; her biri kendi yazarlarına aittir.
