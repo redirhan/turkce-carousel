@@ -1,0 +1,27 @@
+{
+  "ad": "acik-editoryal",
+  "gorunen_ad": "Açık Editoryal",
+  "aciklama": "Krem kâğıt zemin, ince çizgiler, büyük cümle düzeni başlık (Bricolage Grotesque) ve ilerleme çubuğu. Ajans, B2B ve LinkedIn için sakin, dergi düzeni.",
+  "stil": "editoryal",
+  "fontlar": {
+    "baslik":      {"dosya": "BricolageGrotesque-VF.ttf", "eksen": {"opsz": 96, "wght": 700, "wdth": 88}},
+    "sayi":        {"dosya": "BricolageGrotesque-VF.ttf", "eksen": {"opsz": 96, "wght": 800, "wdth": 80}},
+    "govde":       {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 500}},
+    "govde_kalin": {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 750}},
+    "etiket":      {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 800}},
+    "yedek":       {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 700}}
+  },
+  "baslik_buyuk_harf": false,
+  "baslik_satir": 0.98,
+  "olcu": {"baslik_max": 120, "baslik_min": 50, "kanca_max": 140, "govde": 42, "govde_min": 27, "etiket": 24,
+           "sayi_kanca": 360, "sayi_madde": 30},
+  "paletler": {
+    "kagit":  {"zemin": "#F4EFE6", "metin": "#171614", "soluk": "#625C53", "vurgu": "#1F5C45", "vurgu_metin": "#F4EFE6",
+               "panel": "#EAE3D6", "panel_metin": "#171614", "cizgi": "#CFC6B6"},
+    "murekkep": {"zemin": "#171614", "metin": "#F4EFE6", "soluk": "#ABA497", "vurgu": "#E9B949", "vurgu_metin": "#171614",
+               "panel": "#26241F", "panel_metin": "#F4EFE6", "cizgi": "#3A3730"}
+  },
+  "palet_sirasi": ["kagit"],
+  "kanca_palet": "kagit",
+  "cta_palet": "murekkep"
+}

@@ -1,0 +1,48 @@
+# Örnek 3 — şablon: renkli-egitim · kalıp: adım adım · CTA: paylaş
+konu: "Fotosentez 6 adımda"
+sablon: renkli-egitim
+hesap: "@hesabin"
+seri: "Biyoloji notu"
+madde_etiketi: "Adım"
+slaytlar:
+  - tip: kanca
+    ust: "Biyoloji · 9. sınıf ve üstü"
+    sayi: "6"
+    baslik: "Fotosentez *6 adımda*"
+    alt: "Bitki ışığı nasıl besine çeviriyor? Kaydır."
+  - tip: madde
+    baslik: "Klorofil *ışığı* soğurur"
+    metin: "Kloroplastlardaki klorofil en çok mavi ve kırmızı ışığı soğurur. Yeşili yansıttığı için yaprak yeşil görünür."
+  - tip: madde
+    baslik: "Su *parçalanır*"
+    metin: "Işık enerjisiyle su molekülleri ayrılır. Açığa çıkan oksijen yapraktan atmosfere verilir."
+    ipucu: "Soluduğumuz oksijen karbondioksitten değil, sudan gelir."
+  - tip: madde
+    baslik: "Enerji taşıyıcılar *dolar*"
+    metin: "Tilakoit zarlarında ATP ve NADPH üretilir. Bunlar bir sonraki aşamanın enerji paketleridir."
+  - tip: madde
+    baslik: "Karbondioksit *yaprağa* girer"
+    metin: "Yapraktaki gözeneklerden (stomalar) havadaki karbondioksit içeri alınır."
+  - tip: madde
+    baslik: "Calvin döngüsü *karbonu* bağlar"
+    metin: "Stromada ATP ve NADPH kullanılarak karbondioksit bağlanır ve glikozun yapı taşları üretilir. Bu adım doğrudan ışık istemez."
+  - tip: madde
+    baslik: "Glikoz *kullanılır* ya da depolanır"
+    metin: "Glikoz hücrede enerji için kullanılır, nişasta olarak depolanır ya da selüloz gibi yapılara dönüşür."
+  - tip: liste
+    ust: "Özet denklem"
+    baslik: "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂"
+    isaret: nokta
+    maddeler:
+      - "Girenler: karbondioksit, su ve ışık"
+      - "Çıkanlar: glikoz ve oksijen"
+      - "Işığa bağlı tepkimeler: tilakoit"
+      - "Calvin döngüsü: stroma"
+  - tip: cta
+    tur: paylas
+    baslik: "Sınavı olan *arkadaşına* gönder"
+    metin: "Kaydet, sınavdan önce bir kez daha bak."
+caption:
+  kanca: "Fotosentezi 6 adımda, tek kaydırmada tekrar et."
+  anahtar_kelimeler: ["fotosentez", "biyoloji konu anlatımı", "kloroplast", "calvin döngüsü"]
+  hashtagler: ["#biyoloji", "#fotosentez", "#yks"]

@@ -1,0 +1,14 @@
+Türkçe Carousel Üretici 1.0
+plan: examples/fotosentez/plan.yaml
+şablon: renkli-egitim
+slayt: 9 x 1080x1350 PNG
+PDF: img2pdf (kayıpsız)
+
+UYARI YOK
+
+ÇİZİM KONTROLÜ: taşma yok, çakışma yok, kenar payları tamam.
+
+NOTLAR:
+  · Slayt 08: başlık: Unbounded-VF.ttf içinde ₆ yok, Manrope-VF.ttf kullanıldı
+
+Şimdi slaytlara tek tek gözle bak (onizleme.jpg + her PNG).

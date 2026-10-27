@@ -1,0 +1,6 @@
+# Zorunlu
+Pillow>=10.0
+numpy>=1.24
+# Önerilen
+PyYAML>=6.0      # plan dosyasını YAML yazmak için (JSON için gerekmez)
+img2pdf>=0.5     # kayıpsız LinkedIn PDF'i (yoksa Pillow ile JPEG sıkıştırmalı PDF)

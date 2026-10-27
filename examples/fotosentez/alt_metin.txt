@@ -1,0 +1,9 @@
+01: Biyoloji · 9. sınıf ve üstü 6 Fotosentez 6 adımda Bitki ışığı nasıl besine çeviriyor? Kaydır.
+02: Klorofil ışığı soğurur Kloroplastlardaki klorofil en çok mavi ve kırmızı ışığı soğurur. Yeşili yansıttığı için yaprak yeşil görünür.
+03: Su parçalanır Işık enerjisiyle su molekülleri ayrılır. Açığa çıkan oksijen yapraktan atmosfere verilir. Soluduğumuz oksijen karbondioksitten değil, sudan gelir.
+04: Enerji taşıyıcılar dolar Tilakoit zarlarında ATP ve NADPH üretilir. Bunlar bir sonraki aşamanın enerji paketleridir.
+05: Karbondioksit yaprağa girer Yapraktaki gözeneklerden (stomalar) havadaki karbondioksit içeri alınır.
+06: Calvin döngüsü karbonu bağlar Stromada ATP ve NADPH kullanılarak karbondioksit bağlanır ve glikozun yapı taşları üretilir. Bu adım doğrudan ışık istemez.
+07: Glikoz kullanılır ya da depolanır Glikoz hücrede enerji için kullanılır, nişasta olarak depolanır ya da selüloz gibi yapılara dönüşür.
+08: Özet denklem 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ Girenler: karbondioksit, su ve ışık Çıkanlar: glikoz ve oksijen Işığa bağlı tepkimeler: tilakoit Calvin döngüsü: stroma
+09: Sınavı olan arkadaşına gönder Kaydet, sınavdan önce bir kez daha bak.

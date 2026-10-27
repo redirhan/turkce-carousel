@@ -1,0 +1,11 @@
+Türkçe Carousel Üretici 1.0
+plan: examples/instagram-hatalari/plan.yaml
+şablon: acik-editoryal
+slayt: 7 x 1080x1350 PNG
+PDF: img2pdf (kayıpsız)
+
+UYARI YOK
+
+ÇİZİM KONTROLÜ: taşma yok, çakışma yok, kenar payları tamam.
+
+Şimdi slaytlara tek tek gözle bak (onizleme.jpg + her PNG).

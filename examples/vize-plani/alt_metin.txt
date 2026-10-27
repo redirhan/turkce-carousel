@@ -1,0 +1,8 @@
+01: 5 adım · her biri 1 dakika 5 dk Vize haftası için çalışma planı Kalem kâğıt yeter. Kaydır, birlikte çıkaralım.
+02: Sınav tarihlerini sırala Bütün vizeleri tarihe göre alt alta yaz. En yakın sınav listenin başına geçer. Aynı güne iki sınav düştüyse ikisini de bir gün önceye işaretle.
+03: Konuları üçe ayır Her dersin konularını işaretle: biliyorum, yarım biliyorum, hiç bilmiyorum.
+04: Bir güne en fazla iki ders Günleri sınavdan geriye doğru doldur. Ders sayısı arttıkça hiçbirine yetişemezsin.
+05: 25 dakika çalış, 5 dakika dinlen Her ders için 25 dakikalık bloklar yaz. Dört bloktan sonra uzun mola ver.
+06: Akşamları 10 dakika tekrar Günün sonunda kitabı kapat, öğrendiklerini kendine anlat. Takıldığın yeri yarına yaz.
+07: Özet 5 dakikalık plan Sınavları tarihe göre sırala Konuları üçe ayır Günde en fazla iki ders 25 + 5 dakikalık bloklar Akşam 10 dakika tekrar
+08: Kaydet, vize sabahı aç. Sınavı olan arkadaşına da gönder.

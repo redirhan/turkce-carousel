@@ -1,0 +1,27 @@
+{
+  "ad": "koyu-mercan",
+  "gorunen_ad": "Koyu Mercan",
+  "aciklama": "Siyah ve kırık beyaz zeminler sırayla, mercan vurgu, dar ve kalın BÜYÜK HARF başlık (Archivo). Liste, ipucu ve kişisel marka içerikleri için.",
+  "stil": "mercan",
+  "fontlar": {
+    "baslik":      {"dosya": "Archivo-VF.ttf", "eksen": {"wght": 820, "wdth": 68}},
+    "sayi":        {"dosya": "Archivo-VF.ttf", "eksen": {"wght": 900, "wdth": 62}},
+    "govde":       {"dosya": "Archivo-VF.ttf", "eksen": {"wght": 440, "wdth": 100}},
+    "govde_kalin": {"dosya": "Archivo-VF.ttf", "eksen": {"wght": 720, "wdth": 100}},
+    "etiket":      {"dosya": "Archivo-VF.ttf", "eksen": {"wght": 760, "wdth": 100}},
+    "yedek":       {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 700}}
+  },
+  "baslik_buyuk_harf": true,
+  "baslik_satir": 0.92,
+  "olcu": {"baslik_max": 150, "baslik_min": 54, "kanca_max": 168, "govde": 44, "govde_min": 28, "etiket": 25,
+           "sayi_kanca": 440, "sayi_madde": 200},
+  "paletler": {
+    "koyu": {"zemin": "#0B0B0B", "metin": "#F3F1EC", "soluk": "#A3A09B", "vurgu": "#FF4B2B", "vurgu_metin": "#0B0B0B",
+             "panel": "#1C1C1C", "panel_metin": "#F3F1EC", "cizgi": "#2E2E2E"},
+    "acik": {"zemin": "#F3F1EC", "metin": "#0E0E0E", "soluk": "#5C5A56", "vurgu": "#E03E1D", "vurgu_metin": "#FFFFFF",
+             "panel": "#E4E0D7", "panel_metin": "#0E0E0E", "cizgi": "#D4D0C6"}
+  },
+  "palet_sirasi": ["koyu", "acik"],
+  "kanca_palet": "koyu",
+  "cta_palet": "koyu"
+}

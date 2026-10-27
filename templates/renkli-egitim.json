@@ -1,0 +1,31 @@
+{
+  "ad": "renkli-egitim",
+  "gorunen_ad": "Renkli Eğitim",
+  "aciklama": "Her slayt ayrı canlı renk, yuvarlak numara rozetleri, geniş başlık (Unbounded) ve okunaklı gövde (Manrope). Ders notu, adım adım anlatım ve öğretici içerik için.",
+  "stil": "egitim",
+  "fontlar": {
+    "baslik":      {"dosya": "Unbounded-VF.ttf", "eksen": {"wght": 720}},
+    "sayi":        {"dosya": "Unbounded-VF.ttf", "eksen": {"wght": 850}},
+    "govde":       {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 560}},
+    "govde_kalin": {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 800}},
+    "etiket":      {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 800}},
+    "yedek":       {"dosya": "Manrope-VF.ttf", "eksen": {"wght": 800}}
+  },
+  "baslik_buyuk_harf": false,
+  "baslik_satir": 1.02,
+  "olcu": {"baslik_max": 92, "baslik_min": 44, "kanca_max": 112, "govde": 42, "govde_min": 27, "etiket": 24,
+           "sayi_kanca": 200, "sayi_madde": 64},
+  "paletler": {
+    "sari":   {"zemin": "#FFD84D", "metin": "#15172E", "soluk": "#4A4630", "vurgu": "#3A4FE0", "vurgu_metin": "#FFFFFF",
+               "panel": "#FFF3C4", "panel_metin": "#15172E", "cizgi": "#E8C23A"},
+    "mavi":   {"zemin": "#3E5BF0", "metin": "#FFFFFF", "soluk": "#D5DCFF", "vurgu": "#FFD84D", "vurgu_metin": "#15172E",
+               "panel": "#2E47C9", "panel_metin": "#FFFFFF", "cizgi": "#5A74F5"},
+    "pembe":  {"zemin": "#FF9EB5", "metin": "#15172E", "soluk": "#4D2C38", "vurgu": "#15172E", "vurgu_metin": "#FFFFFF",
+               "panel": "#FFD3DE", "panel_metin": "#15172E", "cizgi": "#F08AA3"},
+    "yesil":  {"zemin": "#7FD8A6", "metin": "#10261B", "soluk": "#2F4B3C", "vurgu": "#15172E", "vurgu_metin": "#FFFFFF",
+               "panel": "#C9F0DA", "panel_metin": "#10261B", "cizgi": "#6CC795"}
+  },
+  "palet_sirasi": ["mavi", "pembe", "yesil", "sari"],
+  "kanca_palet": "sari",
+  "cta_palet": "sari"
+}

@@ -1,0 +1,41 @@
+# Örnek 2 — şablon: acik-editoryal · kalıp: yaygın hatalar (yanlış → doğru) · CTA: yorum + anahtar kelime
+konu: "Küçük işletmeler için 5 Instagram hatası"
+sablon: acik-editoryal
+hesap: "@hesabin"
+seri: "Instagram notları"
+madde_etiketi: "Hata"
+slaytlar:
+  - tip: kanca
+    ust: "Küçük işletmeler için"
+    sayi: "5"
+    baslik: "Instagram hatası, *müşteriyi* kapıdan çeviriyor"
+    alt: "Her birinin çözümü bir öğleden sonralık iş."
+  - tip: karsilastirma
+    baslik: "Profil ne yaptığını söylemiyor"
+    yanlis: "Biyografide yalnız işletme adı ve bir slogan var."
+    dogru: "Tek satırda ne sattığını, nerede olduğunu ve nasıl ulaşılacağını yaz."
+  - tip: karsilastirma
+    baslik: "Sadece ürün fotoğrafı paylaşmak"
+    yanlis: "Akış, aynı ışıkta çekilmiş ürün fotoğraflarından oluşuyor."
+    dogru: "Hazırlığı, ekibi ve müşteri anlarını da göster. İnsanlar insanı takip eder."
+  - tip: karsilastirma
+    baslik: "Fiyat soranlara *\"DM\"* demek"
+    yanlis: "Her yoruma \"fiyat için DM\" yazılıyor, soru orada kalıyor."
+    dogru: "Fiyatı ya da başlangıç fiyatını görselde veya açıklamada açıkça yaz."
+  - tip: karsilastirma
+    baslik: "Ayda bir, aklına geldikçe paylaşmak"
+    yanlis: "Haftalarca sessizlik, sonra aynı gün üç gönderi."
+    dogru: "Gücünün yettiği bir düzen seç ve haftanın aynı günlerinde paylaş."
+  - tip: karsilastirma
+    baslik: "Yorumlar ve mesajlar *cevapsız*"
+    yanlis: "Soru soran müşteri günler sonra yanıt alıyor ya da hiç almıyor."
+    dogru: "Her gün belli bir saatte yorumlara ve mesajlara dön. Kısa bir yanıt bile yeter."
+  - tip: cta
+    tur: yorum
+    baslik: "Kontrol listesi ister misin?"
+    anahtar: "LİSTE"
+    vaat: "5 maddelik kontrol listesini"
+caption:
+  kanca: "Küçük işletme hesaplarında en sık gördüğümüz 5 hata ve her birinin çözümü."
+  anahtar_kelimeler: ["küçük işletme instagram", "instagram profil düzenleme", "esnaf sosyal medya", "instagram ipuçları"]
+  hashtagler: ["#küçükişletme", "#instagramipuçları", "#sosyalmedya", "#esnaf"]

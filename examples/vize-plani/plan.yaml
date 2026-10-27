@@ -1,0 +1,44 @@
+# Örnek 1 — şablon: koyu-mercan · kalıp: adım adım · CTA: kaydet
+konu: "Vize haftası için 5 dakikalık çalışma planı"
+sablon: koyu-mercan
+hesap: "@hesabin"
+seri: "Vize haftası"
+slaytlar:
+  - tip: kanca
+    ust: "5 adım · her biri 1 dakika"
+    sayi: "5 dk"
+    baslik: "*Vize haftası* için çalışma planı"
+    alt: "Kalem kâğıt yeter. Kaydır, birlikte çıkaralım."
+  - tip: madde
+    baslik: "Sınav tarihlerini *sırala*"
+    metin: "Bütün vizeleri tarihe göre alt alta yaz. En yakın sınav listenin başına geçer."
+    ipucu: "Aynı güne iki sınav düştüyse ikisini de bir gün önceye işaretle."
+  - tip: madde
+    baslik: "Konuları *üçe* ayır"
+    metin: "Her dersin konularını işaretle: biliyorum, yarım biliyorum, hiç bilmiyorum."
+  - tip: madde
+    baslik: "Bir güne en fazla *iki ders*"
+    metin: "Günleri sınavdan geriye doğru doldur. Ders sayısı arttıkça hiçbirine yetişemezsin."
+  - tip: madde
+    baslik: "*25 dakika* çalış, 5 dakika dinlen"
+    metin: "Her ders için 25 dakikalık bloklar yaz. Dört bloktan sonra uzun mola ver."
+  - tip: madde
+    baslik: "Akşamları *10 dakika* tekrar"
+    metin: "Günün sonunda kitabı kapat, öğrendiklerini kendine anlat. Takıldığın yeri yarına yaz."
+  - tip: liste
+    ust: "Özet"
+    baslik: "5 dakikalık plan"
+    maddeler:
+      - "Sınavları tarihe göre sırala"
+      - "Konuları üçe ayır"
+      - "Günde en fazla iki ders"
+      - "25 + 5 dakikalık bloklar"
+      - "Akşam 10 dakika tekrar"
+  - tip: cta
+    tur: kaydet
+    baslik: "Kaydet, *vize sabahı* aç."
+    metin: "Sınavı olan arkadaşına da gönder."
+caption:
+  kanca: "Vize haftası geldi ve nereden başlayacağını bilmiyorsan: planı 5 dakikada çıkar."
+  anahtar_kelimeler: ["vize haftası", "ders çalışma planı", "sınav hazırlığı", "üniversite"]
+  hashtagler: ["#vize", "#üniversite", "#dersçalışma"]
